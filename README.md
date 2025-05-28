@@ -35,41 +35,27 @@ private_key_scanner_cpp/
 🔹 Compile dan Jalankan
 
 make
+
 ./scanner
+
+---
 
 💻 Contoh Output
 
 [+] Private Key : a7f4bcd5ea...
+
 [+] ETH Address : 0x8f21Ef93eB...
+
 [+] Status : Simulasi | Saldo: 0.000 ETH
+
+---
 
 🎯 Tujuan Proyek Ini
 
 Menjadi hacker hati dimulai dari mengerti dasar:
 Private Key → Address → Blockchain → Aman.
+
 ---
-## 🔧 Cara Kompilasi & Eksekusi
-1. ### 🔹 Install Library yang dibutuhkan### ⚙️ Cara Pakai:  
-   ```bash
-   suoo apt update
-   sudo apt install libssl-dev curl
----
-
-🔹 Compile dan Jalankan
-
-make
-./scanner
-
-💻 Contoh Output
-
-[+] Private Key : a7f4bcd5ea...
-[+] ETH Address : 0x8f21Ef93eB...
-[+] Status : Simulasi | Saldo: 0.000 ETH
-
-🎯 Tujuan Proyek Ini
-
-Menjadi hacker hati dimulai dari mengerti dasar:
-Private Key → Address → Blockchain → Aman.
 
 📘 Kamu akan belajar:
 
@@ -82,6 +68,7 @@ Private Key → Address → Blockchain → Aman.
 🧠 Berpikir secara sistematis, bukan hanya pakai tools orang lain
 
 ---
+
 ## ☕ Dukung aku agar tetap waras menulis script tengah malam...
 
 👉 [Buy Me a Coffee via PayPal](https://www.paypal.com/paypalme/bungtempong99) 👈  
